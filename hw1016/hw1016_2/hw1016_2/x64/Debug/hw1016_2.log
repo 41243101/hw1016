@@ -1,0 +1,3 @@
+﻿  HW.cpp
+C:\Users\伍翊瑄\OneDrive\Desktop\hw1016_2\hw1016_2\HW.cpp(14,15): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  hw1016_2.vcxproj -> C:\Users\伍翊瑄\OneDrive\Desktop\hw1016_2\x64\Debug\hw1016_2.exe
